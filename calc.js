@@ -1,4 +1,4 @@
-const Calc = require('./calc');
+const Calc = require('./index.js');
 
 console.log("Олена Файяд");
 console.log("Демонстрація Ряду Тейлора ch(x):");

@@ -1,0 +1,19 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flyingunicorn09/AWS.git"
+  },
+  "author": "Elena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flyingunicorn09/AWS/issues"
+  },
+  "homepage": "https://github.com/Flyingunicorn09/AWS#readme"
+}
